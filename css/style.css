@@ -1,0 +1,19 @@
+h2 {
+  color: purple;
+  font-size: 40px;
+}
+body {
+  text-align: center;
+  background-image: url("../img/grass.jpg");
+}
+ul {
+  list-style-type: none;
+}
+p, li {
+  font-size: 25px;
+  color: #0fff;
+  font-family: fantasy;
+}
+img {
+  border: 5px purple solid;
+}
