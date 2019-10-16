@@ -1,6 +1,6 @@
 h2 {
   color: purple;
-  font-size: 40px;
+  font-size: 35px;
 }
 body {
   text-align: center;
@@ -9,11 +9,15 @@ body {
 ul {
   list-style-type: none;
 }
-p, li {
-  font-size: 25px;
-  color: #0fff;
-  font-family: fantasy;
+.info {
+  font-size: 20px;
+  font-family: serif;
+  font-style: italic;
 }
 img {
   border: 5px purple solid;
+}
+h1 {
+   color: purple;
+   font-size: 60px;
 }
