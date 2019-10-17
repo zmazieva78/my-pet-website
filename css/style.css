@@ -24,3 +24,9 @@ h1 {
 .bold {
   font-weight: bold;
 }
+.footbar {
+  border-top: 5px;
+  background-color: gray;
+  padding: 10px;
+  color: white;
+}
