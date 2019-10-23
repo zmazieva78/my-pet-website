@@ -1,7 +1,5 @@
 # My Pet Lucy
 
-![An image of Lucy](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjNz9WNwp3lAhXTqp4KHd-eCQoQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.rollingmeadowspuppies.com%2FMaltipooPagePuppiesFauna.html&psig=AOvVaw3DONsJ6QNP1U7lE0iX-pR-&ust=1571203078747640)
-
 #### By Zarina Mazieva
 
 ### Overview
