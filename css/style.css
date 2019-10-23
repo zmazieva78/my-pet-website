@@ -4,6 +4,8 @@ h2 {
 }
 body {
   text-align: center;
+  /* background-image: url("../img/grass.jpg") */
+  background-color: #DEC8EC;
 }
 ul {
   list-style-type: none;
@@ -29,21 +31,11 @@ h1 {
   padding: 10px;
   color: white;
 }
-.background-pink {
-  background-color: #F6BDDF;
-}
-.background-cream {
+.background-light {
   background-color: #ECE7C4;
+  color: brown;
 }
-.background-picture {
-  background-image: url("../img/grass.jpg");
-}
-#pink {
-  background-color: #F6BDDF;
-}
-#cream {
-  background-color: #ECE7C4;
-}
-#picture {
-  background-color: green;
+.background-dark {
+  background-color: black;
+  color: #F6BDDF;
 }

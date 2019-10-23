@@ -1,16 +1,12 @@
 $(document).ready(function() {
-  $("button#pink").click(function() {
+  $("button#light").click(function() {
     $("body").removeClass();
-    $("body").addClass("background-pink");
+    $("body").addClass("background-light");
   });
 
-  $("button#cream").click(function() {
+  $("button#dark").click(function() {
     $("body").removeClass();
-    $("body").addClass("background-cream");
+    $("body").addClass("background-dark");
   });
 
-  $("button#picture").click(function() {
-    $("body").removeClass();
-    $("body").addClass("background-picture");
-  });
 });
