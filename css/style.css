@@ -4,7 +4,6 @@ h2 {
 }
 body {
   text-align: center;
-  background-image: url("../img/grass.jpg");
 }
 ul {
   list-style-type: none;
@@ -29,4 +28,22 @@ h1 {
   background-color: gray;
   padding: 10px;
   color: white;
+}
+.background-pink {
+  background-color: #F6BDDF;
+}
+.background-cream {
+  background-color: #ECE7C4;
+}
+.background-picture {
+  background-image: url("../img/grass.jpg");
+}
+#pink {
+  background-color: #F6BDDF;
+}
+#cream {
+  background-color: #ECE7C4;
+}
+#picture {
+  background-color: green;
 }
